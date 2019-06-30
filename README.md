@@ -1,2 +1,2 @@
 # Gitpractice
-this is practice git repo
+this is a practice 
