@@ -14,3 +14,10 @@ def divide(x,y):
         return x/y
 def mod(x,n):
     return x%n
+print('these are math operations')
+print(add(2,4))
+print(sub(2,4))
+print(mult(2,4))
+print(divide(2,4))
+print(mod(2,4))
+
