@@ -14,8 +14,8 @@ done with editing
 
 submit ...
 
-<<<<<<< HEAD
+
 changes by repo1
-=======
+
 *** another user edit this***
->>>>>>> e7ef10e8efe1250b8d3f1d6dc66c6fb3b2885f99
+
